@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.30011.22
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pra.Bieren.WPF", "Pra.Bieren.WPF\Pra.Bieren.WPF.csproj", "{850AC7AC-D0EC-4F31-822E-4799BD117772}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pra.Bieren.CORE", "Pra.Bieren.CORE\Pra.Bieren.CORE.csproj", "{92A7BF70-8F3D-4A78-AA2C-9F562B8BA00B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{850AC7AC-D0EC-4F31-822E-4799BD117772}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{850AC7AC-D0EC-4F31-822E-4799BD117772}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{850AC7AC-D0EC-4F31-822E-4799BD117772}.Release|Any CPU.Build.0 = Release|Any CPU
+		{92A7BF70-8F3D-4A78-AA2C-9F562B8BA00B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92A7BF70-8F3D-4A78-AA2C-9F562B8BA00B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92A7BF70-8F3D-4A78-AA2C-9F562B8BA00B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92A7BF70-8F3D-4A78-AA2C-9F562B8BA00B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

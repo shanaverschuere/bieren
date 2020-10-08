@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Pra.Bieren.WPF"
         mc:Ignorable="d"
-        Title="Bieren" Height="518.813" Width="857.948" WindowStartupLocation="CenterScreen"  >
+        Title="Bieren" Height="518.813" Width="857.948" WindowStartupLocation="CenterScreen" Loaded="Window_Loaded"  >
     <Grid>
         <GroupBox x:Name="grpBieren" Header="Bieren" HorizontalAlignment="Left" Height="456" Margin="24,22,0,0" VerticalAlignment="Top" Width="313">
             <Grid>
